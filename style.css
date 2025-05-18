@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+}
+#dice{
+    font-size: 320px;
+}
+#dice:hover{
+    cursor: pointer;
+}
